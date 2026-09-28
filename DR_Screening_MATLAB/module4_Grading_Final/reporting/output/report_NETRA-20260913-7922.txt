@@ -1,0 +1,22 @@
+
+┌─────────────────────────────────────────────┐
+│              NETRAAI SCREENING              │
+│                                             │
+│        DIABETIC RETINOPATHY: DETECTED       │
+│             REFERABLE DR (G2+)              │
+│                                             │
+│           Grade: 4 — Proliferative DR      │
+│           Probability of G2+: 99.86%           │
+│           Grade Confidence:   96.57%           │
+│                                             │
+│              [ REFER ]                       │
+└─────────────────────────────────────────────┘
+
+============================================================
+REPORT ID: NETRA-20260913-7922
+CLINICAL EXPLANATION:
+NetraAI detected hallmarks of Proliferative Diabetic Retinopathy (ICDR Grade 4) with a calibrated referral probability of 99.86%, significantly surpassing the clinical threshold (29.93%). Model spatial attribution indicates prominent vascular proliferation and dense lesion clusters. Urgent tertiary retinal referral is indicated.
+
+RECOMMENDATION:
+URGENT REFERRAL: Consult an ophthalmologist / vitreoretinal surgeon within 1 to 2 weeks for dilated indirect ophthalmoscopy, optical coherence tomography (OCT), and potential laser or anti-VEGF therapy.
+============================================================

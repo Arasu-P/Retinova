@@ -1,0 +1,29 @@
+┌──────────────────────────────────┐
+│        SCREENING RESULT          │
+│                                  │
+│       🟢 NO DR DETECTED          │
+│                                  │
+│     Probability of G2+: 0.38%   │
+│     Recommendation: SCREEN      │
+└──────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│              NETRAAI SCREENING              │
+│                                             │
+│             🟢 NO DR DETECTED               │
+│          (NON-REFERABLE DR G0/G1)           │
+│                                             │
+│              Grade: 0 — No DR               │
+│           Confidence: 96.2%                 │
+│                                             │
+│              [ SCREEN ]                      │
+└─────────────────────────────────────────────┘
+
+============================================================
+REPORT ID: NETRA-20260913-8479
+CLINICAL EXPLANATION:
+NetraAI identified a healthy retinal fundus without evidence of diabetic retinopathy lesions (Grade 0). The calibrated probability of referable DR is 0.38%, far below the 29.93% threshold. Routine annual rescreening is recommended.
+
+RECOMMENDATION:
+ROUTINE RESCREENING: Schedule annual diabetic retinopathy screening in 12 months. Advise regular primary care follow-up for blood glucose, blood pressure, and cholesterol monitoring.
+============================================================
